@@ -368,4 +368,6 @@ Implementing these best practices will help simplify Terraform configurations fo
 
 ---
 
-By adopting these strategies, organizations can effectively manage large-scale Azure firewall configurations using Terraform, ensuring efficient, secure, and compliant operations.
+By adopting these strategies, organizations can effectively manage large-scale Azure firewall configurations using Terraform, ensuring efficient, secure, and compliant operations. 
+
+N.B. - the application of Terraform to the Azure Cloud is distinctly a question of how to operate Terraform at scale. Please seek assistance and guidance from Hashicorp/Terraform directly
